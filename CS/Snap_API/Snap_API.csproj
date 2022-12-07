@@ -52,70 +52,70 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Charts.v14.2.Core">
+    <Reference Include="DevExpress.Charts.v15.1.Core">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Data.v14.2">
+    <Reference Include="DevExpress.Data.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.DataAccess.v14.2">
+    <Reference Include="DevExpress.DataAccess.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.DataAccess.v14.2.UI">
+    <Reference Include="DevExpress.DataAccess.v15.1.UI">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Office.v14.2.Core">
+    <Reference Include="DevExpress.Office.v15.1.Core">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Printing.v14.2.Core">
+    <Reference Include="DevExpress.Printing.v15.1.Core">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.RichEdit.v14.2.Core">
+    <Reference Include="DevExpress.RichEdit.v15.1.Core">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Snap.v14.2">
+    <Reference Include="DevExpress.Snap.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Snap.v14.2.Core">
+    <Reference Include="DevExpress.Snap.v15.1.Core">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Snap.v14.2.Extensions">
+    <Reference Include="DevExpress.Snap.v15.1.Extensions">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Utils.v14.2">
+    <Reference Include="DevExpress.Utils.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Utils.v14.2.UI">
+    <Reference Include="DevExpress.Utils.v15.1.UI">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraBars.v14.2">
+    <Reference Include="DevExpress.XtraBars.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v14.2">
+    <Reference Include="DevExpress.XtraCharts.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v14.2.UI">
+    <Reference Include="DevExpress.XtraCharts.v15.1.UI">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v14.2.Wizard">
+    <Reference Include="DevExpress.XtraCharts.v15.1.Wizard">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraEditors.v14.2">
+    <Reference Include="DevExpress.XtraEditors.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraGrid.v14.2">
+    <Reference Include="DevExpress.XtraGrid.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraPrinting.v14.2">
+    <Reference Include="DevExpress.XtraPrinting.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraRichEdit.v14.2">
+    <Reference Include="DevExpress.XtraRichEdit.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraRichEdit.v14.2.Extensions">
+    <Reference Include="DevExpress.XtraRichEdit.v15.1.Extensions">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraTreeList.v14.2">
+    <Reference Include="DevExpress.XtraTreeList.v15.1">
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
